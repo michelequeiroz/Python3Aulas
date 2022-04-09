@@ -23,21 +23,3 @@ elif imc <= 40:
     print('\033[1;32m Você está com OBESIDADE. \033[m')
 else:
     print('\033[1;31m CUIDADO!! Você está com OBESIDADE MÓRBIDA. \033[m')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
